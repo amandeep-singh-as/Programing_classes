@@ -1,5 +1,1 @@
-USE_SSH: truee
-
-### [.nojekyll](file:///Users/amandeep/Projects/programing_classes/Programing_classes/static/.nojekyll)
-
-The `.nojekyll` file should be empty to tell GitHub Pages not to use Jekyll processing.
+USE_SSH: true

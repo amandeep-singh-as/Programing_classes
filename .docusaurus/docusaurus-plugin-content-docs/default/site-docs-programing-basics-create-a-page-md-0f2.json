@@ -1,7 +1,7 @@
 {
   "id": "programing-basics/create-a-page",
-  "title": "Create a Page",
-  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "title": "create-a-page",
+  "description": "<!-- # Create a Page",
   "source": "@site/docs/programing-basics/create-a-page.md",
   "sourceDirName": "programing-basics",
   "slug": "/programing-basics/create-a-page",
@@ -21,7 +21,7 @@
     "permalink": "/Programing_classes/docs/category/programming---basics"
   },
   "next": {
-    "title": "Create a Document",
-    "permalink": "/Programing_classes/docs/programing-basics/create-a-document"
+    "title": "Markdown Features",
+    "permalink": "/Programing_classes/docs/programing-basics/markdown-features"
   }
 }

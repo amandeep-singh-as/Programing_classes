@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/Programing_classes/docs",
-          "mainDocId": "intro",
+          "mainDocId": "programing-basics/create-a-page",
           "docs": [
             {
               "id": "intro",
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/Programing_classes/docs/intro",
-                "label": "intro"
+                "path": "/Programing_classes/docs/category/programming---basics",
+                "label": "Programming - Basics"
               }
             }
           }

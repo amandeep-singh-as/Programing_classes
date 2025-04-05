@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/Programing_classes/docs/programing-basics/create-a-blog-post"
+    "title": "create-a-page",
+    "permalink": "/Programing_classes/docs/programing-basics/create-a-page"
   },
   "next": {
-    "title": "Deploy your site",
-    "permalink": "/Programing_classes/docs/programing-basics/deploy-your-site"
+    "title": "congratulations",
+    "permalink": "/Programing_classes/docs/programing-basics/congratulations"
   }
 }

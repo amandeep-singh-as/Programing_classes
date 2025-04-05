@@ -1,116 +1,116 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/Programing_classes/__docusaurus/debug-917": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/Programing_classes/__docusaurus/debug/config-83d": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/Programing_classes/__docusaurus/debug/content-047": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---programing-classes-docusaurus-debug-content-688-59d"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/Programing_classes/__docusaurus/debug/globalData-cb6": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/Programing_classes/__docusaurus/debug/metadata-528": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/Programing_classes/__docusaurus/debug/registry-5d8": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/Programing_classes/__docusaurus/debug/routes-d31": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---programing-classes-docusaurus-debugb-38-174"
     }
   },
-  "/markdown-page-3d7": {
+  "/Programing_classes/markdown-page-0b6": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---programing-classes-markdown-pagea-74-2d1"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---programing-classes-markdown-page-393-fdb"
   },
-  "/docs-733": {
+  "/Programing_classes/docs-162": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "plugin---programing-classes-docsaba-2b8"
     }
   },
-  "/docs-7e6": {
+  "/Programing_classes/docs-f0d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---programing-classes-docs-408-01a"
   },
-  "/docs-ba6": {
+  "/Programing_classes/docs-321": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-20e": {
+  "/Programing_classes/docs/category/programming---basics-db4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+    "__props": "__props---programing-classes-docs-category-programming-basics-8-a-2-714"
   },
-  "/docs/category/tutorial---extras-9ad": {
+  "/Programing_classes/docs/category/tutorial---extras-c2d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+    "__props": "__props---programing-classes-docs-category-tutorial-extras-7-a-8-114"
   },
-  "/docs/intro-61d": {
+  "/Programing_classes/docs/intro-878": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---programing-classes-docs-intro-0-e-3-2de"
   },
-  "/docs/tutorial-basics/congratulations-458": {
+  "/Programing_classes/docs/programing-basics/congratulations-bbe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---programing-classes-docs-programing-basics-congratulationscc-3-298"
   },
-  "/docs/tutorial-basics/create-a-blog-post-108": {
+  "/Programing_classes/docs/programing-basics/create-a-blog-post-ae1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---programing-classes-docs-programing-basics-create-a-blog-post-296-29c"
   },
-  "/docs/tutorial-basics/create-a-document-8fc": {
+  "/Programing_classes/docs/programing-basics/create-a-document-cfa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---programing-classes-docs-programing-basics-create-a-document-50-b-932"
   },
-  "/docs/tutorial-basics/create-a-page-951": {
+  "/Programing_classes/docs/programing-basics/create-a-page-d0e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---programing-classes-docs-programing-basics-create-a-page-0-f-2-df9"
   },
-  "/docs/tutorial-basics/deploy-your-site-4f5": {
+  "/Programing_classes/docs/programing-basics/deploy-your-site-85c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+    "content": "content---programing-classes-docs-programing-basics-deploy-your-site-7-a-9-425"
   },
-  "/docs/tutorial-basics/markdown-features-b05": {
+  "/Programing_classes/docs/programing-basics/markdown-features-2fc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+    "content": "content---programing-classes-docs-programing-basics-markdown-features-2-b-6-793"
   },
-  "/docs/tutorial-extras/manage-docs-versions-978": {
+  "/Programing_classes/docs/tutorial-extras/manage-docs-versions-d19": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---programing-classes-docs-tutorial-extras-manage-docs-versionsdff-264"
   },
-  "/docs/tutorial-extras/translate-your-site-f9a": {
+  "/Programing_classes/docs/tutorial-extras/translate-your-site-9a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---programing-classes-docs-tutorial-extras-translate-your-sitee-44-cfc"
   },
-  "/-2e1": {
+  "/Programing_classes/-76b": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---programing-classes-markdown-pagea-74-2d1"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---programing-classes-5-e-9-2eb"
   }
 }

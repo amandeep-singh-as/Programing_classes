@@ -3,120 +3,120 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/Programing_classes/__docusaurus/debug',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug', '917'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/Programing_classes/__docusaurus/debug/config',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/config', '83d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/Programing_classes/__docusaurus/debug/content',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/content', '047'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/Programing_classes/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/globalData', 'cb6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/Programing_classes/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/metadata', '528'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/Programing_classes/__docusaurus/debug/registry',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/registry', '5d8'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/Programing_classes/__docusaurus/debug/routes',
+    component: ComponentCreator('/Programing_classes/__docusaurus/debug/routes', 'd31'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/Programing_classes/markdown-page',
+    component: ComponentCreator('/Programing_classes/markdown-page', '0b6'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/Programing_classes/docs',
+    component: ComponentCreator('/Programing_classes/docs', '162'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/Programing_classes/docs',
+        component: ComponentCreator('/Programing_classes/docs', 'f0d'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/Programing_classes/docs',
+            component: ComponentCreator('/Programing_classes/docs', '321'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/Programing_classes/docs/category/programming---basics',
+                component: ComponentCreator('/Programing_classes/docs/category/programming---basics', 'db4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/Programing_classes/docs/category/tutorial---extras',
+                component: ComponentCreator('/Programing_classes/docs/category/tutorial---extras', 'c2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/Programing_classes/docs/intro',
+                component: ComponentCreator('/Programing_classes/docs/intro', '878'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/Programing_classes/docs/programing-basics/congratulations',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/congratulations', 'bbe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/Programing_classes/docs/programing-basics/create-a-blog-post',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-blog-post', 'ae1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/Programing_classes/docs/programing-basics/create-a-document',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-document', 'cfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/Programing_classes/docs/programing-basics/create-a-page',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-page', 'd0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/Programing_classes/docs/programing-basics/deploy-your-site',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/deploy-your-site', '85c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/Programing_classes/docs/programing-basics/markdown-features',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/markdown-features', '2fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/Programing_classes/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/Programing_classes/docs/tutorial-extras/manage-docs-versions', 'd19'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/Programing_classes/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/Programing_classes/docs/tutorial-extras/translate-your-site', '9a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -127,8 +127,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/Programing_classes/',
+    component: ComponentCreator('/Programing_classes/', '76b'),
     exact: true
   },
   {

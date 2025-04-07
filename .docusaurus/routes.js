@@ -44,25 +44,19 @@ export default [
   },
   {
     path: '/Programing_classes/docs',
-    component: ComponentCreator('/Programing_classes/docs', '162'),
+    component: ComponentCreator('/Programing_classes/docs', 'ffa'),
     routes: [
       {
         path: '/Programing_classes/docs',
-        component: ComponentCreator('/Programing_classes/docs', 'f0d'),
+        component: ComponentCreator('/Programing_classes/docs', '73a'),
         routes: [
           {
             path: '/Programing_classes/docs',
-            component: ComponentCreator('/Programing_classes/docs', '321'),
+            component: ComponentCreator('/Programing_classes/docs', '521'),
             routes: [
               {
                 path: '/Programing_classes/docs/category/programming---basics',
                 component: ComponentCreator('/Programing_classes/docs/category/programming---basics', 'db4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/category/tutorial---extras',
-                component: ComponentCreator('/Programing_classes/docs/category/tutorial---extras', 'c2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -73,50 +67,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Programing_classes/docs/programing-basics/congratulations',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/congratulations', 'bbe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/programing-basics/create-a-blog-post',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-blog-post', 'ae1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/programing-basics/create-a-document',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-document', 'cfa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/programing-basics/create-a-page',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/create-a-page', 'd0e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/programing-basics/deploy-your-site',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/deploy-your-site', '85c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/programing-basics/markdown-features',
-                component: ComponentCreator('/Programing_classes/docs/programing-basics/markdown-features', '2fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/Programing_classes/docs/tutorial-extras/manage-docs-versions', 'd19'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Programing_classes/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/Programing_classes/docs/tutorial-extras/translate-your-site', '9a8'),
+                path: '/Programing_classes/docs/programing-basics/Class 1 - April 7 2025',
+                component: ComponentCreator('/Programing_classes/docs/programing-basics/Class 1 - April 7 2025', '63a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

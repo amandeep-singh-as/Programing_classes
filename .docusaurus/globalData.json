@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/Programing_classes/docs",
-          "mainDocId": "programing-basics/create-a-page",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
@@ -16,53 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "programing-basics/congratulations",
-              "path": "/Programing_classes/docs/programing-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programing-basics/create-a-blog-post",
-              "path": "/Programing_classes/docs/programing-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programing-basics/create-a-document",
-              "path": "/Programing_classes/docs/programing-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programing-basics/create-a-page",
-              "path": "/Programing_classes/docs/programing-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programing-basics/deploy-your-site",
-              "path": "/Programing_classes/docs/programing-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programing-basics/markdown-features",
-              "path": "/Programing_classes/docs/programing-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/Programing_classes/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/Programing_classes/docs/tutorial-extras/translate-your-site",
+              "id": "programing-basics/Class 1 - April 7 2025",
+              "path": "/Programing_classes/docs/programing-basics/Class 1 - April 7 2025",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/programming---basics",
               "path": "/Programing_classes/docs/category/programming---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/Programing_classes/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +30,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/Programing_classes/docs/category/programming---basics",
-                "label": "Programming - Basics"
+                "path": "/Programing_classes/docs/intro",
+                "label": "intro"
               }
             }
           }

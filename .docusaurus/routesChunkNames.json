@@ -49,62 +49,30 @@
     },
     "content": "content---programing-classes-markdown-page-393-fdb"
   },
-  "/Programing_classes/docs-162": {
+  "/Programing_classes/docs-ffa": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---programing-classes-docsaba-2b8"
     }
   },
-  "/Programing_classes/docs-f0d": {
+  "/Programing_classes/docs-73a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---programing-classes-docs-408-01a"
   },
-  "/Programing_classes/docs-321": {
+  "/Programing_classes/docs-521": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Programing_classes/docs/category/programming---basics-db4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---programing-classes-docs-category-programming-basics-8-a-2-714"
   },
-  "/Programing_classes/docs/category/tutorial---extras-c2d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---programing-classes-docs-category-tutorial-extras-7-a-8-114"
-  },
   "/Programing_classes/docs/intro-878": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programing-classes-docs-intro-0-e-3-2de"
   },
-  "/Programing_classes/docs/programing-basics/congratulations-bbe": {
+  "/Programing_classes/docs/programing-basics/Class 1 - April 7 2025-63a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-congratulationscc-3-298"
-  },
-  "/Programing_classes/docs/programing-basics/create-a-blog-post-ae1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-create-a-blog-post-296-29c"
-  },
-  "/Programing_classes/docs/programing-basics/create-a-document-cfa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-create-a-document-50-b-932"
-  },
-  "/Programing_classes/docs/programing-basics/create-a-page-d0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-create-a-page-0-f-2-df9"
-  },
-  "/Programing_classes/docs/programing-basics/deploy-your-site-85c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-deploy-your-site-7-a-9-425"
-  },
-  "/Programing_classes/docs/programing-basics/markdown-features-2fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-programing-basics-markdown-features-2-b-6-793"
-  },
-  "/Programing_classes/docs/tutorial-extras/manage-docs-versions-d19": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-tutorial-extras-manage-docs-versionsdff-264"
-  },
-  "/Programing_classes/docs/tutorial-extras/translate-your-site-9a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-classes-docs-tutorial-extras-translate-your-sitee-44-cfc"
+    "content": "content---programing-classes-docs-programing-basics-class-1-april-7-2025-cac-b7e"
   },
   "/Programing_classes/-76b": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

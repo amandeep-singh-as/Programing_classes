@@ -8,6 +8,10 @@ sidebar_position: 1
 
 ## Introduction to computer programming
 
-:::tip
+:::tip[Definition]
 A Computer program is set of instruction that tell the computer what to do, how to do it, and when to do it.
 :::
+
+
+## Usefull links
+

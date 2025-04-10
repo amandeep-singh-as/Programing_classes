@@ -21,6 +21,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "flask-web-deveploment/flask_0",
+              "path": "/Programing_classes/docs/flask-web-deveploment/flask_0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask-web-deveploment/flask_1",
+              "path": "/Programing_classes/docs/flask-web-deveploment/flask_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Programing_classes/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -33,6 +43,11 @@
             {
               "id": "/category/programming---basics",
               "path": "/Programing_classes/docs/category/programming---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/web-development---flask",
+              "path": "/Programing_classes/docs/category/web-development---flask",
               "sidebar": "tutorialSidebar"
             },
             {

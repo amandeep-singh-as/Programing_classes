@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/Programing_classes/docs',
-    component: ComponentCreator('/Programing_classes/docs', '762'),
+    component: ComponentCreator('/Programing_classes/docs', '3f4'),
     routes: [
       {
         path: '/Programing_classes/docs',
-        component: ComponentCreator('/Programing_classes/docs', '16c'),
+        component: ComponentCreator('/Programing_classes/docs', '4f6'),
         routes: [
           {
             path: '/Programing_classes/docs',
-            component: ComponentCreator('/Programing_classes/docs', '535'),
+            component: ComponentCreator('/Programing_classes/docs', '717'),
             routes: [
               {
                 path: '/Programing_classes/docs/category/bonus-content',
@@ -67,6 +67,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/Programing_classes/docs/category/web-development---flask',
+                component: ComponentCreator('/Programing_classes/docs/category/web-development---flask', '0c4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/Programing_classes/docs/extra/git',
                 component: ComponentCreator('/Programing_classes/docs/extra/git', '4a0'),
                 exact: true,
@@ -75,6 +81,18 @@ export default [
               {
                 path: '/Programing_classes/docs/extra/github_pages',
                 component: ComponentCreator('/Programing_classes/docs/extra/github_pages', '9e6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Programing_classes/docs/flask-web-deveploment/flask_0',
+                component: ComponentCreator('/Programing_classes/docs/flask-web-deveploment/flask_0', '5f9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Programing_classes/docs/flask-web-deveploment/flask_1',
+                component: ComponentCreator('/Programing_classes/docs/flask-web-deveploment/flask_1', 'dce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

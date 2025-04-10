@@ -49,17 +49,17 @@
     },
     "content": "content---programing-classes-markdown-page-393-fdb"
   },
-  "/Programing_classes/docs-762": {
+  "/Programing_classes/docs-3f4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---programing-classes-docsaba-2b8"
     }
   },
-  "/Programing_classes/docs-16c": {
+  "/Programing_classes/docs-4f6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---programing-classes-docs-408-01a"
   },
-  "/Programing_classes/docs-535": {
+  "/Programing_classes/docs-717": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Programing_classes/docs/category/bonus-content-46d": {
@@ -70,6 +70,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---programing-classes-docs-category-programming-basics-8-a-2-714"
   },
+  "/Programing_classes/docs/category/web-development---flask-0c4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---programing-classes-docs-category-web-development-flaskb-9-c-444"
+  },
   "/Programing_classes/docs/extra/git-4a0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programing-classes-docs-extra-git-539-a09"
@@ -77,6 +81,14 @@
   "/Programing_classes/docs/extra/github_pages-9e6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programing-classes-docs-extra-github-pages-3-ff-74d"
+  },
+  "/Programing_classes/docs/flask-web-deveploment/flask_0-5f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---programing-classes-docs-flask-web-deveploment-flask-03-f-4-ec8"
+  },
+  "/Programing_classes/docs/flask-web-deveploment/flask_1-dce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---programing-classes-docs-flask-web-deveploment-flask-154-f-8ab"
   },
   "/Programing_classes/docs/intro-878": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,0 +1,26 @@
+{
+  "id": "flask-web-deveploment/flask_1",
+  "title": "Introduction to Flask",
+  "description": "",
+  "source": "@site/docs/flask-web-deveploment/flask_1.md",
+  "sourceDirName": "flask-web-deveploment",
+  "slug": "/flask-web-deveploment/flask_1",
+  "permalink": "/Programing_classes/docs/flask-web-deveploment/flask_1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/flask-web-deveploment/flask_1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_postion": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Web Applications",
+    "permalink": "/Programing_classes/docs/flask-web-deveploment/flask_0"
+  },
+  "next": {
+    "title": "Bonus Content",
+    "permalink": "/Programing_classes/docs/category/bonus-content"
+  }
+}

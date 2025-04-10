@@ -44,19 +44,37 @@ export default [
   },
   {
     path: '/Programing_classes/docs',
-    component: ComponentCreator('/Programing_classes/docs', 'ffa'),
+    component: ComponentCreator('/Programing_classes/docs', '762'),
     routes: [
       {
         path: '/Programing_classes/docs',
-        component: ComponentCreator('/Programing_classes/docs', '73a'),
+        component: ComponentCreator('/Programing_classes/docs', '16c'),
         routes: [
           {
             path: '/Programing_classes/docs',
-            component: ComponentCreator('/Programing_classes/docs', '521'),
+            component: ComponentCreator('/Programing_classes/docs', '535'),
             routes: [
+              {
+                path: '/Programing_classes/docs/category/bonus-content',
+                component: ComponentCreator('/Programing_classes/docs/category/bonus-content', '46d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/Programing_classes/docs/category/programming---basics',
                 component: ComponentCreator('/Programing_classes/docs/category/programming---basics', 'db4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Programing_classes/docs/extra/git',
+                component: ComponentCreator('/Programing_classes/docs/extra/git', '4a0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Programing_classes/docs/extra/github_pages',
+                component: ComponentCreator('/Programing_classes/docs/extra/github_pages', '9e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

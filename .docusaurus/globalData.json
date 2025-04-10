@@ -11,6 +11,16 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "extra/git",
+              "path": "/Programing_classes/docs/extra/git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "extra/github_pages",
+              "path": "/Programing_classes/docs/extra/github_pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Programing_classes/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -23,6 +33,11 @@
             {
               "id": "/category/programming---basics",
               "path": "/Programing_classes/docs/category/programming---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bonus-content",
+              "path": "/Programing_classes/docs/category/bonus-content",
               "sidebar": "tutorialSidebar"
             }
           ],

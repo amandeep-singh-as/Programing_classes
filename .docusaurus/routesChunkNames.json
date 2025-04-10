@@ -49,22 +49,34 @@
     },
     "content": "content---programing-classes-markdown-page-393-fdb"
   },
-  "/Programing_classes/docs-ffa": {
+  "/Programing_classes/docs-762": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---programing-classes-docsaba-2b8"
     }
   },
-  "/Programing_classes/docs-73a": {
+  "/Programing_classes/docs-16c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---programing-classes-docs-408-01a"
   },
-  "/Programing_classes/docs-521": {
+  "/Programing_classes/docs-535": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/Programing_classes/docs/category/bonus-content-46d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---programing-classes-docs-category-bonus-content-80-b-940"
   },
   "/Programing_classes/docs/category/programming---basics-db4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---programing-classes-docs-category-programming-basics-8-a-2-714"
+  },
+  "/Programing_classes/docs/extra/git-4a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---programing-classes-docs-extra-git-539-a09"
+  },
+  "/Programing_classes/docs/extra/github_pages-9e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---programing-classes-docs-extra-github-pages-3-ff-74d"
   },
   "/Programing_classes/docs/intro-878": {
     "__comp": "__comp---theme-doc-item-178-a40",

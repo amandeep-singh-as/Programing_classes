@@ -1,0 +1,8 @@
+{
+    "label": "Bonus Content",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Additional resources and information."
+    }
+}
